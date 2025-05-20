@@ -59,11 +59,11 @@ Aqui estão alguns dos meus projetos:
 
 - **[Sabor Gourmet](https://github.com/WuallanDAvilla/SaborGourmet)**: Criação de um site com a temática de um restaurante gourmet.
 - **[Conversor de Moedas](https://github.com/WuallanDAvilla/ConversorDeMoedas)**: Um conversor automatico de moedas de diversos países.
-- **[Adivinhação](https://github.com/WuallanDAvilla/clthanos)**: Um pequeno jogo de numeros em adivinhação.
+- **[RDNote](https://github.com/WuallanDAvilla/RDNote)**: Editor txt,md em seu navegador.
 --
 - **[Sabor Gourmet](https://github.com/WuallanDAvilla/SaborGourmet)**: Creation of a website themed around a gourmet restaurant.
 - **[Currency Converter](https://github.com/WuallanDAvilla/ConversorDeMoedas)**: An automatic currency converter for multiple countries.
-- **[Guessing Game](https://github.com/WuallanDAvilla/clthanos)**: A small number guessing game.
+- **[RDnote](https://github.com/WuallanDAvilla/RDNote)**: txt,md editor in your browser.
 
 Sinta-se à vontade para explorar mais repositórios no meu perfil!
 Feel free to explore more repositories on my profile!
