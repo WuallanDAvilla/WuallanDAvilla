@@ -26,7 +26,7 @@ Sou estudante do 3º ano do Ensino Médio e também estou cursando Técnico de D
 
 ## 🧩 Projetos e hobbies:
 - 👨‍💻 Gosto de criar bots, jogos e automações.
-- 🎮 Curto muito jogar na Steam e Roblox.
+- 🎮 Gosto de desenvolver jogos.
 - 📁 Repositórios que você pode ver:
   - [🎮 Tic Tac Toe em JS](https://github.com/WuallanDAvilla/TicTacToe) — Jogo da velha simples e bem estruturado, com foco em lógica e interatividade.
 
