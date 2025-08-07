@@ -1,92 +1,57 @@
-# Ola! Eu sou Wuallan D'Avilla 👋 (Hi there! I am Wuallan D'Avilla)
+# 👋 Olá, me chamo WuallanD'Avilla!
 
+Sou estudante do 3º ano do Ensino Médio e também estou cursando Técnico de Desenvolvimento de Sistemas pelo SENAI. Sou apaixonado por programação e tecnologia, e adoro desafios que me fazem aprender mais a cada dia.
 
----
+## 🧠 Sobre mim:
+- 🎓 Estudante do Ensino Médio e do SENAI.
+- 💡 Gosto de desenvolver projetos pessoais para aprender na prática.
+- ⚡ Tenho facilidade em aprender novas tecnologias e sempre busco melhorar minhas habilidades.
+- 🧩 Curioso, focado, autodidata e determinado.
 
-Bem-vindo ao meu perfil do GitHub! 🚀
-Welcome to my perfil in GitHub! 🚀
- 
-Sou apaixonado por **tecnologia**, **desenvolvimento de software** e **Programação**. Atualmente, estou explorando **Back-End**, **Front-End** e **Projeto de Software**, mas estou sempre aberto a aprender novas tecnologias e metodologias.
+## 💻 Tecnologias que conheço e utilizo:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-I am passionate about **technology**, **software development** and **programming**. Currently, I am exploring **Back-End**, **Front-End**, and **Software Project development**, but I am always open to learning new technologies and methodologies.
+## 🔧 Ferramentas e ambientes:
+- Visual Studio Code
+- Git e GitHub
+- Terminal Linux/Windows
+- Conhecimento em lógica de programação e estruturas de dados
 
-![GitHub followers](https://img.shields.io/github/followers/[SeuUsername]?style=social)
-![GitHub stars](https://img.shields.io/github/stars/[SeuUsername]?style=social)
+## 🧩 Projetos e hobbies:
+- 👨‍💻 Gosto de criar bots, jogos e automações.
+- 🎮 Curto muito jogar na Steam e Roblox.
+- 📁 Repositórios que você pode ver:
+  - [🎮 Tic Tac Toe em JS](https://github.com/WuallanDAvilla/TicTacToe) — Jogo da velha simples e bem estruturado, com foco em lógica e interatividade.
 
----
+## 📚 Atualmente estudando:
+- APIs REST com Node.js
+- Estruturas de Dados e Algoritmos
+- Desenvolvimento Front-end com React
+- Padrões de Projeto
 
-## 🚀 Sobre mim (About me)
-
-- 🌱 Atualmente, estou sou estudante do **SENAI**, cursando **Desenvolvimento e sistema**.
-- 👯 Estou procurando sempre colaborar em projetos que envolvam **HTML** e **CSS**.
-- 🤔 Busco sempre aprender mais sobre **Desenvolvimento Mobile** e **HTML**.
-- 💬 Tenho um pouco de experiencia em **JavaScript**, **Python**, **Node.js**, entre outros.
-- 📫 Como me encontrar: [Email](wuallandavilla84@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wuallan-d-avilla-687669304/) | [Twitter](https://x.com/HelenDAvilla)
---
-- 🌱 Currently, I am a student at **SENAI**, studying **Development and Systems**.
-- 👯 I am always looking to collaborate on projects that involve **HTML** and **CSS**
-- 🤔 I am constantly seeking to learn more about **Mobile Development** and **HTML**.
-- 💬 I have a some experience with **JavaScript**, **Python**, **Node.js**, among others.
-- 📫 How to reach me: [Email](wuallandavilla84@gmail.com) | [LinkedIn](https://www.linkedin.com/in/wuallan-d-avilla-687669304/) | [Twitter](https://x.com/HelenDAvilla)
----
-## 🛠️ Tecnologias e Ferramentas (Technologies and Tools)
-
-### Desenvolvimento Front-end (Front-End Development)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/-CSS3-2965F1?style=flat-square&logo=css3&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-### Desenvolvimento Back-end (Back-End Development)
-
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-306998?style=flat-square&logo=python&logoColor=white)
-
-### Banco de dados (DataBase)
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Ferramentas (Tools)
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
----
-## 📂 Projetos (Projects)
-
-Aqui estão alguns dos meus projetos:
-
-
-- **[Sabor Gourmet](https://github.com/WuallanDAvilla/SaborGourmet)**: Criação de um site com a temática de um restaurante gourmet.
-- **[Conversor de Moedas](https://github.com/WuallanDAvilla/ConversorDeMoedas)**: Um conversor automatico de moedas de diversos países.
-- **[RDNote](https://github.com/WuallanDAvilla/RDNote)**: Editor txt,md em seu navegador.
---
-- **[Sabor Gourmet](https://github.com/WuallanDAvilla/SaborGourmet)**: Creation of a website themed around a gourmet restaurant.
-- **[Currency Converter](https://github.com/WuallanDAvilla/ConversorDeMoedas)**: An automatic currency converter for multiple countries.
-- **[RDnote](https://github.com/WuallanDAvilla/RDNote)**: txt,md editor in your browser.
-
-Sinta-se à vontade para explorar mais repositórios no meu perfil!
-Feel free to explore more repositories on my profile!
-
----
-## 🧠 Pensamentos & Aprendizados (Thoughts & Learnings)
-
-- 💡 "A única maneira de fazer um excelente trabalho é amar o que você faz.." — Steve Jobs
-- 📚 "Aquele que habita no esconderijo do Altíssimo, à sombra do Onipotente descansará.. - Salmos 91
---
-- 💡 "The only way to do great work is to love what you do." — Steve Jobs
-- 📚 He who dwells in the secret place of the Most High shall rest in the shadow of the Almighty." — salms 91
+## 📫 Como me encontrar:
+- GitHub: [@WuallanDAvilla](https://github.com/WuallanDAvilla)
+<!-- - LinkedIn: Em breve -->
+- Email: wuallandavila@gmail.com
 
 ---
 
-## 📌 Fatos divertidos sobre mim (Fun facts about me)
+### 📊 GitHub Stats:
+![Len's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WuallanDAvilla&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WuallanDAvilla&layout=compact&theme=radical)
 
-- 🎮 Quando não estou programando, estou jogando **Terraria** e ouvindo **Enemy**.
-- 🌍 Sempre estou lendo livros diversos como **Como eu era antes de você** e **Menino do Pijama Listrado**, se não estou lendo, estarei tocando minha **Flauta transversal**.
-- 💡 Estou sempre buscando aprender algo novo, seja uma linguagem de programação ou um novo hobby.
---
-- 🎮 When I'm not coding, I'm playing **Terraria** and listening to **Enemy**.
-- 🌍 I’m always reading various books like **Me Before You** and **The Boy in the Striped Pajamas**. If I'm not reading, I’m probably playing my **Transverse Flute**.
-- 💡 Estou sempre buscando aprender algo novo, seja uma linguagem de programação ou um novo hobby.
 ---
-# Muito Obrigado pela atenção! (Thank you for atention)
+
+💬 *"Aprender é meu superpoder. Programar é minha linguagem."*  
+🧠 *“Não sei tudo, mas estou sempre pronto para aprender qualquer coisa.”*
+
+---
+
+> Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução 🚀
